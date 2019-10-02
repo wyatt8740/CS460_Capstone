@@ -1,0 +1,5 @@
+﻿Project Plan
+
+	Currently, our team is in the research phase of development. As we continue to look into vulnerabilities, we will be thinking about the possible ways that the vulnerability in question could be used against the power grids. As we gain more knowledge, we will each choose a vulnerability that shows promise. Once the vulnerabilities have been chosen, we will decide which vulnerability to pursue as a group.
+	After the group has collectively decided which vulnerability has the most promise, we will hypothesize a testing model. This model should simulate a smart power grid as well as the effects that may occur from potential attacks or unrelated hazards. When the model is operational, testing will be done to simulate the attacks and/or hazards which may negatively impact the system.
+	Post-testing conclusions will be drawn from the results of the tests. From there, we will each contribute to a final report. This report will list all of the conclusions that our group is able to gather and summarize them to  draw final thoughts from the entire testing experience.
