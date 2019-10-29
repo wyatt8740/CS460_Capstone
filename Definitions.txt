@@ -1,0 +1,11 @@
+Resistance - Property of edges that indicate energy lost between two nodes
+
+Voltage - Constant that represents the potential energy of the graph that is being observed
+
+Capacity - Total load that a transformer can handle
+
+Nodes- Points in the grid that are connected by edges
+
+Edges- Connections between nodes
+
+Graph- A collection of nodes and the edges that connect them
